@@ -1,0 +1,12 @@
+b)  VLAD Encoding Results
+    Top-1 accuracy:0.22166666666666668
+    mAP:0.20155604067193034
+ 
+c)  VLAD Encoding Results with PowerNorm and L2 Normalization
+    Top-1 accuracy:0.8263888888888888
+    mAP:0.6331171470274723
+
+ 
+d)  ESVM results
+	Top-1 accuracy:0.8769444444444444
+	mAP:0.7271684531760688
